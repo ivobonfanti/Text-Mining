@@ -1,4 +1,4 @@
-# Text-Mining
+# Text-mining
 
 This work has a twofold objective, on one hand it aims to detect valuable insights
 concerning the academic debate on nuclear plants safety, while on the other, it points
